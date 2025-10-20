@@ -34,9 +34,9 @@ You can use a tool like Postman to test the API.
 
 ---
 
-## [cite_start]Screenshots of API Tests [cite: 23]
+## Screenshots of API Tests 
 
-[cite_start]**Note:** All screenshots include the current date/time and my name (visible in a text editor or terminal) as required[cite: 8].
+**Note:** All screenshots include the current date/time and my name (visible in a text editor or terminal) as required.
 
 ### 1. Create Task (PUT /tasks)
 <img width="1918" height="1078" alt="Task 1 - 1" src="https://github.com/user-attachments/assets/1b527664-99c2-4e7b-9b33-7253ed7ffe0c" />
