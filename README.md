@@ -20,7 +20,7 @@ This is a Spring Boot application that provides a REST API for creating, finding
 
 ---
 
-## [cite_start]API Endpoints (How to Use) 
+## API Endpoints (How to Use) 
 
 You can use a tool like Postman to test the API.
 
