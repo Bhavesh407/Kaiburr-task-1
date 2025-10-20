@@ -9,9 +9,9 @@ This is a Spring Boot application that provides a REST API for creating, finding
 ## How to Run the Application
 
 ### Prerequisites
-* Java JDK 21 (or 17+)
+* Java JDK 21 
 * MongoDB
-* Apache Maven (or use the included Maven wrapper)
+* Apache Maven 
 
 ### Steps
 1.  **Start MongoDB:** Ensure your MongoDB server is running on its default port (`27017`).
