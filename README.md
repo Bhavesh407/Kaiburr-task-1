@@ -2,7 +2,7 @@
 Kaiburr-task1-restAPI
 # Kaiburr Assessment - Task 1: Java REST API
 
-[cite_start]This is a Spring Boot application that provides a REST API for creating, finding, deleting, and executing "task" objects[cite: 31]. [cite_start]The tasks are stored in a MongoDB database[cite: 79].
+This is a Spring Boot application that provides a REST API for creating, finding, deleting, and executing "task" objects. The tasks are stored in a MongoDB database.
 
 ---
 
